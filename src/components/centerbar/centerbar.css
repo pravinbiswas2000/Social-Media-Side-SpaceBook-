@@ -1,0 +1,9 @@
+.centerbar {
+    flex: 6;
+    overflow-y: scroll;
+    height: calc(100vh - 50px);
+}
+
+.centerbarWrapper {
+    padding: 20px;
+}
